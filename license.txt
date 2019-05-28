@@ -1,0 +1,14 @@
+Hello Friends This software is presented to you by A.P.
+This software converts The input to their corresponding ascii Table of symbols or characters.
+
+i.e if you enter 10 as lower limit and 20 as upper limit then 
+it will print all ascii symbols between 10 and 20.
+
+
+I created this software during my learning period.
+so it is completely free to use and i hope that it will help.
+and i request everyone 
+please don't make commercial use of it..
+Thank you..
+you are free to use the software now.
+			-A.P
